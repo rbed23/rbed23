@@ -42,7 +42,8 @@ I'm proficient in Python (and the Flask μ-framework), comfortable with Javascri
 ## How to Reach Me:
 
 * LinkedIn ([@rbed23](https://www.linkedin.com/in/rbed23/))
-* [ryan.pl.bednar](mailto:ryan.pl.bednar@gmail.com)
+* [ryan.pl.bednar@gmail.com](mailto:ryan.pl.bednar@gmail.com)
+
 
 ## Might be of Interest:
 
@@ -55,6 +56,8 @@ I'm proficient in Python (and the Flask μ-framework), comfortable with Javascri
 
 * sharing photos and μ-blogging from VSCO
 * messing around on codepen.io
+
+
 
 
 ### Where's the Social Media??
